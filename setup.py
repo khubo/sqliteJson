@@ -8,7 +8,7 @@ setup(
     author = 'Khubo',
     author_email = 'aswinrajv@gmail.com',
     url = 'https://github.com/khubo/sqlitejson',
-    download_url='',
+    download_url='https://github.com/khubo/sqliteJson/tarball/0.1',
     keywords = ['sqliteJson', 'bottle', 'json', 'sqlite3'],
     classifiers = [],
 )
