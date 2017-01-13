@@ -1,1 +1,1 @@
-from test import json_serializer
+from jsonizer import json_serializer
